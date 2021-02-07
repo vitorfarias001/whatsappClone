@@ -16,10 +16,7 @@ Clone da parte visual da home do WhatsApp Web com REACT JS aprendido pelo profis
 ## Como executar
 
 ```bash
-git clone https://github.com/GustavoNoronha0/WhatsappClone
-$ cd WhatsappClone
 $ npm install
 $ npm start
 ```
-
-Bom aprendizado.<br/>
+<br/>
